@@ -1,5 +1,9 @@
 // DEFINE YOUR FUNCTION:
-function rant(){
-    return "i hate beets";
-}
-console.log(rant().toUpperCase());
+function rant(message){
+
+    console.log("i hate beets".toUpperCase());
+    console.log("i hate beets".toUpperCase());
+    console.log("i hate beets".toUpperCase());
+                
+  }
+  rant("message");
